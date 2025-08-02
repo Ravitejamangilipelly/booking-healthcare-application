@@ -25,6 +25,9 @@ Navigation bar with active section highlighting
 
 ## Run Locally:
  git clone https://github.com/your-username/booking-healthcare-app.git
+ 
  cd booking-healthcare-app
+ 
  npm install
+ 
  npm start

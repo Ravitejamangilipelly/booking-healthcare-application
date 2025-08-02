@@ -1,0 +1,29 @@
+.book-container {
+  padding: 30px;
+  max-width: 500px;
+  margin: auto;
+}
+
+.appointment-form input {
+  display: block;
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.appointment-form button {
+  padding: 10px 20px;
+  background: #0072ff;
+  color: white;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.confirmation {
+  color: green;
+  font-size: 18px;
+  font-weight: bold;
+}

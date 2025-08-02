@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to right, #f7f9fc, #eef2f7);
+}
+
+.details-container{
+  text-align: center;
+}
+
+.list{
+  list-style-type: none;
+}
+
+.button-book{
+  background-color: blue;
+  font-size: 16px;
+  height: 35px;
+  width: 188px;
+  border: 1px solid blue;
+  color: white;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
